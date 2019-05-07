@@ -1,0 +1,23 @@
+id;login;password_hash;first_name;last_name;email;activated;lang_key;role;created_by;last_modified_by
+1;system@mars.com;$2a$10$mE.qmcV0mFU5NcKh73TZx.z4ueI/.bDWbj0T1BYyqP481kGGarKLG;System;" ";system@mars.com;1;en;ADMIN;system;system
+2;admin@mars.com;$2a$10$nMb3thKma/cllKLbJL0uvO9Iq7ruv3AWSrk3rCV0Q.92sHAhIQ68q;Administrator;" ";admin@mars.com;1;en;ADMIN;system;system
+3;user@mars.com;$2a$10$VEjxo0jq2YG9Rbk2HmX9S.k1uZBGYUHdUcid3g/vfiEl7lwWgOH/K;User;" ";user@mars.com;1;en;USER;system;system
+4;jregato@mars.com;$2a$10$zrrs0tz.a0Ojxq2ZB.Yml.M27qJPZoxAKLTz2uZ9a24impEfKNiAO;John;Regato;jregato@mars.com;1;en;MANAGER;admin;admin
+5;amandiant@mars.com;$2a$10$0SdoYvX1ZExaFxLYo4BzquLpfxUCO7zY2v4MX2j/RaMikfl0WTsJ6;Alice;Mandiant;amandiant@mars.com;1;en;MANAGER;admin;admin
+6;promero@mars.com;$2a$10$WT/yEZx4ctvsGF.jJx8UY.ZBdjBpnJwYEVROTjjwWHdL2NumM5H0a;Paul;Romero;promero@mars.com;1;en;MANAGER;admin;admin
+7;fabdel@mars.com;$2a$10$LrTP69Zrj.F.7ikWR3H38.3Z.YzlOPb2IxAbjFPoiySbvMPNMoyA6;Faisal;Abdel;fabdel@mars.com;1;en;MANAGER;admin;admin
+8;ctrivedi@mars.com;$2a$10$lcVys1wo5LSJ9ai7.i7C5O0Mjd16CD8VtEtOnh7xtvdJkVTo4iZ56;Chenoa;Trivedi;ctrivedi@mars.com;1;en;MANAGER;admin;admin
+9;jcoulibaly@mars.com;$2a$10$bXGcCdWJdbt4CKbQsIcbAeZZb1baN.b7zSJniteE6iOd5hBiRnYdW;Jay;Coulibaly;jcoulibaly@mars.com;1;en;MANAGER;admin;admin
+10;wkung@mars.com;$2a$10$bZym4C25zdoSWWxBoBGxFOwgs8Rfr9xSCPp8.wJzIQQmoYKLDhUim;Wei;Kung;wkung@mars.com;1;en;MANAGER;admin;admin
+11;mniang@mars.com;$2a$10$q1o35pMpe8zo5BrUXbuitOx4WIlD.t8P2gBDJwQkJuiTRPE7Fziqm;Malick;Niang;mniang@mars.com;1;en;MANAGER;admin;admin
+12;psoell@mars.com;$2a$10$lDqex/jus7vrrnvztMAkIeW8DDh6Py4qJ0b74qYiBrH0ykDy/SA6a;Peter;Soell;psoell@mars.com;1;en;EMPLOYEE;admin;admin
+13;pgraf@mars.com;$2a$10$0SdoYvX1ZExaFxLYo4BzquLpfxUCO7zY2v4MX2j/RaMikfl0WTsJ6;Patrick Oliver;Graf;pgraf@mars.com;1;en;EMPLOYEE;admin;admin
+14;bdietrich@mars.com;$2a$10$WT/yEZx4ctvsGF.jJx8UY.ZBdjBpnJwYEVROTjjwWHdL2NumM5H0a;Beate;Dietrich;bdietrich@mars.com;1;en;EMPLOYEE;admin;admin
+15;joberoi@mars.com;$2a$10$LrTP69Zrj.F.7ikWR3H38.3Z.YzlOPb2IxAbjFPoiySbvMPNMoyA6;Jon;Oberoi;joberoi@mars.com;1;en;EMPLOYEE;admin;admin
+16;aobaidat@mars.com;$2a$10$lcVys1wo5LSJ9ai7.i7C5O0Mjd16CD8VtEtOnh7xtvdJkVTo4iZ56;Anaya;Obaidat;aobaidat@mars.com;1;en;EMPLOYEE;admin;admin
+17;ckustarz@mars.com;$2a$10$bXGcCdWJdbt4CKbQsIcbAeZZb1baN.b7zSJniteE6iOd5hBiRnYdW;Chester;Kustarz;ckustarz@mars.com;1;en;EMPLOYEE;admin;admin
+18;jpesci@mars.com;$2a$10$bZym4C25zdoSWWxBoBGxFOwgs8Rfr9xSCPp8.wJzIQQmoYKLDhUim;Joe;Pesci;jpesci@mars.com;1;en;EMPLOYEE;admin;admin
+19;larel@mars.com;$2a$10$q1o35pMpe8zo5BrUXbuitOx4WIlD.t8P2gBDJwQkJuiTRPE7Fziqm;Lucia;Arel;larel@mars.com;1;en;EMPLOYEE;admin;admin
+20;wzhang@mars.com;$2a$10$7IyMeEeN3GUQ3UhbN304K.0FWs1CkG1fFo0pRrD4RaOiKW8YpNbjS;Wei;Zhang;wzhang@mars.com;1;en;EMPLOYEE;admin;admin
+21;asahraoui@mars.com;$2a$10$cRNepiQYjMdL2SADQQaEy.iOkIbDJulUzgGRXoLnwubuRA1plyy4.;Adbulah;Sahraoui;asahraoui@mars.com;1;en;EMPLOYEE;admin;admin
+22;acoulibaly@mars.com;$2a$10$vOoH.M/4E/8OP7.3J0Dyx..WjSq3rmVsJUvKqfiHwZWR9p9axWs3q;Ayesha;Coulibaly;acoulibaly@mars.com;1;en;EMPLOYEE;admin;admin
